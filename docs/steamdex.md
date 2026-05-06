@@ -24,7 +24,7 @@ O Steamdex surge para agrupar essas funcionalidades em um único ambiente, fazen
 - Criação de listas personalizadas de jogos
 
 ## Modelagem de dados
-![Diagrama Físico do Banco de Dados](assets/diagrama.png)
+![Diagrama Físico do Banco de Dados](assets/diagrama.jpeg)
 
 ## Estrutura do Projeto
 ```bash
